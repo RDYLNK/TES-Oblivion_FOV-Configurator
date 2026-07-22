@@ -3,6 +3,6 @@
 	"patch": 0.11,
 	"download" : {
 		"app_win64": "https://github.com/RDYLNK/TES-Oblivion_FOV-Configurator/releases/latest/App_Win64.zip",
-		"patch_win64": "https://github.com/RDYLNK/TES-Oblivion_FOV-Configurator/releases/latest/Patch_Win64_v0.1.1.pck"
+		"patch_win64": "sha256:13908d9924c8b1da1cd5ebd5b13e047b9e23b93ab85279aabf6bca1cf123e5ef"
 	}		
 }
