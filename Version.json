@@ -2,7 +2,7 @@
 	"app": 0.1,
 	"patch": 0.11,
 	"download" : {
-		"app_win64": "https://github.com/RDYLNK/TES-Oblivion_FOV-Configurator/releases/download/0.1/App_Win64.zip",
+		"app_win64": "https://github.com/RDYLNK/TES-Oblivion_FOV-Configurator/releases/tag/0.1/App_Win64.zip",
 		"patch_win64": "https://github.com/RDYLNK/TES-Oblivion_FOV-Configurator/releases/tag/0.1/Patch_Win64_0.1.1.zip"
 	}		
 }
