@@ -1,6 +1,6 @@
 {
-	"app": "0.20",
-	"patch": "0",
+	"app": "0.10",
+	"patch": "11",
 	"download" : {
 		"win64_app": "https://github.com/RDYLNK/TES-Oblivion_FOV-Configurator/releases/download/0.1/win64_app_v0-20.zip",
 		"win64_patch": "https://github.com/RDYLNK/TES-Oblivion_FOV-Configurator/releases/download/0.1/win64_app_v0-10_patch_11.pck"
